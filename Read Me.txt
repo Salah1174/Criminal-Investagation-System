@@ -1,0 +1,11 @@
+Before running this app, take in considiration the hard work that was made to make this system
+works, we've spent a big time doing this project and applying things we've learned and didn't
+learn as well ...
+
+also... you might find the code named"MoSalah" as i named it like that without really knowing
+
+last thing, disable 4996 error from the properties menu as i'm using the strcpy function
+
+
+Thank You :)
+Return 0; 
